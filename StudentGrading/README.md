@@ -1,4 +1,4 @@
-Grading-System
+Grading-System PHASE 1
 ---------------
 Menu-driven C project using arrays. Given below are the cases considered : Case 1: Get student roll number and name of 10 students
 
